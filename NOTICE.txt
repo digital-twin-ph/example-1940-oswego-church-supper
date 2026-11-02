@@ -1,0 +1,28 @@
+The Oswego church supper, 1940
+==============================
+
+Source:   Centers for Disease Control and Prevention, Epidemiology
+          Program Office. Oswego: An Outbreak of Gastrointestinal
+          Illness Following a Church Supper. Case Studies in Applied
+          Epidemiology, No. 401-303, Student's Guide. The guide credits
+          updates and editing to Philip Brachman, Michael Gregg, Richard
+          Dicker and others.
+          https://www.cdc.gov/eis/downloads/xoswego-401-303-student.pdf
+
+History:  Gross M. Oswego County revisited. Public Health Reports,
+          March-April 1976, 168-170.
+          https://stacks.cdc.gov/view/cdc/65198/cdc_65198_DS1.pdf
+
+Terms:    The guide is a publication of a United States government
+          agency and carries no copyright notice that was found. Works
+          of the United States government are generally in the public
+          domain. No explicit statement of that was read for this
+          document, so this is a reasonable reading and not a confirmed
+          fact.
+
+Checked:  Compared with the oswego data in the R package epitools
+          0.5-10.1, licensed GPL (>= 2). No epitools file is
+          redistributed here. The values come from CDC's table.
+
+The arrangement, README and provenance in this repository are released
+under CC0 1.0. See LICENSE.

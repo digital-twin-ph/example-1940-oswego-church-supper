@@ -1,0 +1,30 @@
+{
+  "schema": "fieldwork/example-provenance/1",
+  "retrieved": "2026-11-01",
+  "title": "The Oswego church supper, Lycoming, Oswego County, New York, 1940",
+  "source": "https://www.cdc.gov/eis/downloads/xoswego-401-303-student.pdf",
+  "sourceDigest": "866832ae9812f34f157ed263db2f79b57cf10baaec1528232129c5d24b3eb256",
+  "publisher": "Centers for Disease Control and Prevention, Epidemiology Program Office",
+  "originalSource": "New York State Department of Health investigation by A. M. Rubin, 1940, as carried in CDC Case Studies in Applied Epidemiology No. 401-303, Student's Guide, line listing sorted by person.",
+  "history": {
+    "source": "https://stacks.cdc.gov/view/cdc/65198/cdc_65198_DS1.pdf",
+    "sourceDigest": "d68523b2aa95a0aa529f9c47fdab05f24b81b3c6780a041e75d5ea1e3035f08e",
+    "citation": "Gross M. Oswego County revisited. Public Health Reports, March-April 1976, 168-170."
+  },
+  "transcription": "Extracted from the PDF's text layer with pdftotext -layout on 2026-11-01, 75 rows and 21 columns. Values are as CDC prints them, including unk, ? and the asterisk on 12:00 AM. The food column order was taken from the epitools variable order, and the food counts then matched Gross's published table.",
+  "verification": {
+    "against": "oswego in R package epitools 0.5-10.1, https://cran.r-project.org/web/packages/epitools/index.html",
+    "cellsCompared": 1575,
+    "rowsDiffering": 0,
+    "treatedAsEqual": "unk and ? against NA; a blank onset against NA; 12:00 AM* against 12:00 AM",
+    "alsoAgainst": "Gross 1976 table of food-specific attack rates: all counts agree except chocolate ice cream among those who did not eat it, 21 there and 20 here, where person 44 is ill with chocolate ice cream unknown."
+  },
+  "licence": "unstated",
+  "licenceNote": "A United States government publication with no copyright notice found. Generally public domain, not confirmed by a statement in the document.",
+  "limits": [
+    "80 attended and 75 were interviewed.",
+    "Meal time is known for 22 of the 46 who were ill.",
+    "No coordinates are carried.",
+    "No workflow has been built or run in Fieldwork."
+  ]
+}
