@@ -89,9 +89,9 @@ the people who made the ice cream did not recall it. That is a hypothesis and no
   say why.
 - **Exposure is by recall,** collected from 20 April onward.
 - **The church's location is inferred.** See *Where the church is*.
-- **`fieldwork-project.json.gz` holds one workflow of 46 nodes**: the line list, a count, two-by-two
-  and table for each of the 14 foods, and a locator map. No study design is declared, so measures are
-  named by their arithmetic. No epidemic curve or incubation period has been built.
+- **`fieldwork-project.json.gz` holds two workflows of 3 nodes each**: every food in one table of attack
+  rates, and a locator map. No study design is declared, so measures are named by their arithmetic. No
+  epidemic curve or incubation period has been built.
 
 ## Sources
 
