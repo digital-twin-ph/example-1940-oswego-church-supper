@@ -24,5 +24,12 @@ Checked:  Compared with the oswego data in the R package epitools
           0.5-10.1, licensed GPL (>= 2). No epitools file is
           redistributed here. The values come from CDC's table.
 
-The arrangement, README and provenance in this repository are released
+Place:    geo/lycoming-church.geojson holds one point taken from
+          OpenStreetMap way 833073471. (c) OpenStreetMap contributors,
+          available under the Open Database License 1.0. It is not
+          covered by CC0. The identification of the building as the
+          church of the supper is inferred; see the README.
+
+The arrangement, README and provenance in this repository, other than
+that point, are released
 under CC0 1.0. See LICENSE.

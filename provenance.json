@@ -24,7 +24,15 @@
   "limits": [
     "80 attended and 75 were interviewed.",
     "Meal time is known for 22 of the 46 who were ill.",
-    "No coordinates are carried.",
-    "No workflow has been built or run in Fieldwork."
-  ]
+    "The church's location is inferred, not established; see place.",
+    "The Fieldwork project declares no study design and holds no epidemic curve."
+  ],
+  "place": {
+    "file": "geo/lycoming-church.geojson",
+    "source": "https://www.openstreetmap.org/way/833073471",
+    "retrieved": "2026-11-02",
+    "licence": "ODbL-1.0",
+    "status": "inferred",
+    "chain": "Gross 1976 p.169 caption, the single church symbol on USGS Oswego East 1:31,680 (1943), the building in that quarter, 174 Miner Road, Lycoming United Methodist Church. No source read names the church."
+  }
 }

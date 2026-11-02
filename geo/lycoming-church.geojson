@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"name":"Lycoming United Methodist Church","address":"174 Miner Road, Lycoming, New York","status":"inferred: no source read names the church of the 1940 supper","source":"OpenStreetMap way 833073471, building centre, ODbL 1.0"},"geometry":{"type":"Point","coordinates":[-76.385545,43.499636]}}]}

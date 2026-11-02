@@ -48,6 +48,26 @@ Gross's 1976 table gives 21 ill among those who did not eat chocolate ice cream,
 gives 20. Person 44 was ill and chocolate ice cream is `?`, which would account for the difference.
 Gross prints 67% for cakes, where 27 of 40 rounds to 68%.
 
+## Where the church is
+
+**The point in `geo/lycoming-church.geojson` is inferred, not established.** It is the building at 174
+Miner Road, 43.499636, -76.385545, the address of Lycoming United Methodist Church today.
+
+No source read names the church. CDC says "the village church". Gross prints a photograph of it on
+p.169, captioned "Church in Lycoming, N.Y., where supper was held", without a name. The chain is:
+
+1. The USGS Oswego East 1:31,680 map of 1943 shows one church symbol in the hamlet, in the north-east
+   quarter of the crossroads of what are now County Road 29 and Miner Road. It sits about 12 m from
+   the point used here.
+2. A Methodist Protestant church, built in 1874, stood in Lycoming, per *Landmarks of Oswego County*
+   (1895), which gives no site.
+3. A second church symbol stands at Union Cemetery, about 1.3 km to the south-south-west. Nothing read
+   eliminates it, though Gross places the church in Lycoming.
+
+That the building of 1874, 1940 and today is one building is not shown. No present-day photograph has
+been compared with Gross's. For a locator map this is close enough, and the hamlet's centre is about
+60 m away. It is not a claim about which door anyone walked through.
+
 ## What the investigation found
 
 Vanilla ice cream was implicated by food histories and by culture, and the agent was *Staphylococcus
@@ -68,9 +88,10 @@ the people who made the ice cream did not recall it. That is a hypothesis and no
 - **Three people who were ill report no vanilla ice cream:** persons 9, 39 and 59. The file does not
   say why.
 - **Exposure is by recall,** collected from 20 April onward.
-- **This repository has no coordinates.** The setting is named and not located, so no map is carried
-  yet.
-- **No Fieldwork project is included yet.** The workflow has not been built or run in the application.
+- **The church's location is inferred.** See *Where the church is*.
+- **`fieldwork-project.json.gz` holds one workflow of 46 nodes**: the line list, a count, two-by-two
+  and table for each of the 14 foods, and a locator map. No study design is declared, so measures are
+  named by their arithmetic. No epidemic curve or incubation period has been built.
 
 ## Sources
 
