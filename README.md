@@ -73,6 +73,23 @@ the corner and Lycoming's box marked on it (a locator, Fieldwork's Map inset). T
 Bureau's cartographic boundary of 2018, public domain, as geoBoundaries publishes it (USA ADM1, the simplified file,
 release 9469f09), kept in the project; nothing else of it is used.
 
+## Four more questions, 2026-11-15
+
+Each is its own short workflow, reading the line list with every column.
+
+- *When did they fall ill?* Onset as a date and time, written by a rule from `Date of onset` (month/day), the year 1940
+  and `Time of onset` (12-hour), counted by the hour. 44 of the 46 ill have both; two write `12:00 AM*`, with an
+  asterisk the file does not explain, and are listed, not read. Onset runs from 3 PM on 18 April, before the supper, to
+  10 AM on 19 April, and peaks at 1 AM with 10 cases.
+- *How long from the meal to illness?* Hours from the meal, 18 April at `Time of meal`, to onset: a median of 4 hours
+  for the 21 ill with both times; 23 have the meal time as `unk`.
+- *Who fell ill?* Ill or not, by age band (0 to 9, 10 to 19, 20 to 39, 40 to 59, 60 and over) and by sex, each with
+  its share within the band or sex.
+- *Was it the vanilla ice cream?* Its own two-by-two: 43 of 54 who ate it fell ill, against 3 of 21 who did not, a
+  risk ratio of 5.57 (95% interval 1.94 to 16.03); and the three ill who did not eat it, listed.
+
+The year and the date of the supper are the source's, not the rows'; the times are local, as recalled.
+
 ## What the investigation found
 
 Vanilla ice cream was implicated by food histories and by culture, and the agent was *Staphylococcus
