@@ -34,5 +34,18 @@
     "licence": "ODbL-1.0",
     "status": "inferred",
     "chain": "Gross 1976 p.169 caption, the single church symbol on USGS Oswego East 1:31,680 (1943), the building in that quarter, 174 Miner Road, Lycoming United Methodist Church. No source read names the church."
-  }
+  },
+  "boundaries": [
+    {
+      "what": "New York State's outline, for the locator on the map of Lycoming",
+      "source": "United States Census Bureau, MAF/TIGER Database, cartographic boundary file, 2018, as geoBoundaries publishes it (gbOpen, USA, ADM1, boundaryID USA-ADM1-66186276)",
+      "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/USA/ADM1/geoBoundaries-USA-ADM1_simplified.geojson",
+      "fileSha256": "9d7a32244a5c3c2868d039355db2fdd9eb903ef255cfda128decd20bedc0dfbe",
+      "fileBytes": 5469814,
+      "retrieved": "2026-11-15",
+      "licence": "Public Domain",
+      "licenceSource": "https://www.census.gov/programs-surveys/geography/technical-documentation/naming-convention/cartographic-boundary-file.html",
+      "use": "Only New York's feature (US-NY, 18 polygons, 1,664 vertices) is kept, in fieldwork-project.json.gz; the file itself is not redistributed."
+    }
+  ]
 }

@@ -68,6 +68,11 @@ That the building of 1874, 1940 and today is one building is not shown. No prese
 been compared with Gross's. For a locator map this is close enough, and the hamlet's centre is about
 60 m away. It is not a claim about which door anyone walked through.
 
+**The map shows where Lycoming is.** Its static figure is the hamlet, about 2 km across, with New York State small in
+the corner and Lycoming's box marked on it (a locator, Fieldwork's Map inset). The state's outline is the US Census
+Bureau's cartographic boundary of 2018, public domain, as geoBoundaries publishes it (USA ADM1, the simplified file,
+release 9469f09), kept in the project; nothing else of it is used.
+
 ## What the investigation found
 
 Vanilla ice cream was implicated by food histories and by culture, and the agent was *Staphylococcus
@@ -100,6 +105,10 @@ the people who made the ice cream did not recall it. That is a hypothesis and no
   401-303, Student's Guide. <https://www.cdc.gov/eis/downloads/xoswego-401-303-student.pdf>
 - Gross M. Oswego County revisited. *Public Health Reports* 1976; March-April: 168-170.
   <https://stacks.cdc.gov/view/cdc/65198/cdc_65198_DS1.pdf>
+
+- United States Census Bureau, MAF/TIGER Database, cartographic boundary of New York State, 2018, via geoBoundaries
+  (gbOpen, USA, ADM1, USA-ADM1-66186276). Public domain.
+  <https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/USA/ADM1/geoBoundaries-USA-ADM1_simplified.geojson>
 
 The line list was checked against the `oswego` data in the R package
 [epitools](https://cran.r-project.org/web/packages/epitools/index.html) 0.5-10.1. See
